@@ -1,0 +1,13 @@
+@FinalFields, false
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131
+org.roegerle.client.Action, false, false, true, false, org.roegerle.client.Action/4134995709, 4134995709
+org.roegerle.client.CommandService, false, false, false, false, _, 786556529
+org.roegerle.client.Response, true, false, false, false, org.roegerle.client.Response/485171240, 485171240
+org.roegerle.client.Said, true, true, false, false, org.roegerle.client.Said/2549308040, 2549308040
+org.roegerle.client.Say, false, false, true, true, org.roegerle.client.Say/2836540160, 2836540160
